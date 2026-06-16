@@ -136,7 +136,7 @@ export default function Portfolio() {
             </div>
             <p><strong>Stack:</strong> ChoiceScript, Platform APIs (Steam, iOS, Android)</p>
             <ul className="project-metrics">
-              <li><strong>Scale & State Management:</strong> Engineered and deployed a highly-rated, 290,000-word interactive application. Designed the underlying branching logic architecture, managing complex state variables, multi-threaded conditional flags, and parallel player states.</li>
+              <li><strong>Scale & State Management:</strong> Engineered and deployed a highly-rated, 200,000-word interactive application. Designed the underlying branching logic architecture, managing complex state variables, multi-threaded conditional flags, and parallel player states.</li>
               <li><strong>Commercial Success:</strong> Successfully launched as a profitable product across three major global storefronts via Hosted Games.</li>
               <li><strong>Crisis Management:</strong> Directed high-visibility launch communications, managing active player feedback loops and mitigating community friction to ensure sustained positive platform ratings.</li>
             </ul>
