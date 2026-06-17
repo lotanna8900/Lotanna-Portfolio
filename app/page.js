@@ -154,7 +154,7 @@ export default function Portfolio() {
             <p><strong>Stack:</strong> Python, Asyncio, Graph Theory</p>
             <ul className="project-metrics">
               <li><strong>CLI Tooling & Analysis:</strong> Architected <code>hive diff</code>, an offline developer experience (DX) tool utilizing deep-graph comparison to visually audit and track generational node mutations in self-evolving agents.</li>
-              <li><strong>Transactional Safety:</strong> Engineered sandboxed execution environments and deep state serialization to prevent AI agents from rewriting code into broken states.</li>
+              <li><strong>State Observability:</strong> Built robust data parsing pipelines to expose rejected evolutions and graph states, drastically improving developer observability during agent training cycles.</li>
             </ul>
           </div>
 
